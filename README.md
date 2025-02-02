@@ -1,13 +1,13 @@
 <a href="https://github.com/MALAKA-SL/MALAKA-MD-V1"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=0013FF&center=true&width=1000&height=200&lines=MALAKA-MD-V1.0" alt="Typing SVG" /></a>
   </p>
   
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://files.catbox.moe/lsfd5w.mp4" height="90" width="100%">
 </h3>
 
-<img src="https://i.ibb.co/JrdxHSY/3439.jpg" width="300" height="190">
+<img src="https://files.catbox.moe/xlyvcs.jpeg" width="300" height="190">
 </div>
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a>
+<a><img src='https://files.catbox.moe/xlyvcs.jpeg'/></a><a>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{MALAKA-MD-V1}/count.svg" alt="MALAKA-SL :: Visitor's Count" old_src="https://profile-counter.glitch.me/{MALAKA-SL}/count.svg" /></p>
 
